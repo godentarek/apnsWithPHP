@@ -1,0 +1,107 @@
+2012-11-07T16:10:45-08:00 Push script started (production mode)
+2012-11-07T16:10:46-08:00 Connecting to gateway.push.apple.com:2195
+2012-11-07T16:10:47-08:00 Failed to connect: 0 
+2012-11-07T16:22:01-08:00 Push script started (production mode)
+2012-11-07T16:22:01-08:00 Connecting to gateway.push.apple.com:2195
+2012-11-07T16:22:03-08:00 Failed to connect: 0 
+2012-11-07T16:25:22-08:00 Push script started (production mode)
+2012-11-07T16:25:22-08:00 Connecting to gateway.push.apple.com:2195
+2012-11-07T16:25:23-08:00 Failed to connect: 0 
+2012-11-07T16:42:06-08:00 Push script started (production mode)
+2012-11-07T16:42:07-08:00 Connecting to gateway.push.apple.com:2195
+2012-11-07T16:42:09-08:00 Failed to connect: 0 
+2012-11-07T16:44:33-08:00 Push script started (production mode)
+2012-11-07T16:44:33-08:00 Connecting to gateway.push.apple.com:2195
+2012-11-07T16:44:33-08:00 Failed to connect: 0 
+2012-11-07T16:47:54-08:00 Push script started (production mode)
+2012-11-07T16:47:54-08:00 Connecting to gateway.push.apple.com:2195
+2012-11-07T16:47:54-08:00 Failed to connect: 0 
+2012-11-07T17:02:18-08:00 Push script started (production mode)
+2012-11-07T17:02:18-08:00 Connecting to gateway.push.apple.com:2195
+2012-11-07T17:02:18-08:00 Failed to connect: 0 
+2012-11-07T17:04:05-08:00 Push script started (production mode)
+2012-11-07T17:04:05-08:00 Connecting to gateway.push.apple.com:2195
+2012-11-07T17:04:05-08:00 Failed to connect: 0 
+2012-11-07T17:06:51-08:00 Push script started (production mode)
+2012-11-07T17:06:52-08:00 Connecting to gateway.push.apple.com:2195
+2012-11-07T17:06:52-08:00 Failed to connect: 0 
+2012-11-07T23:12:38-08:00 Push script started (production mode)
+2012-11-07T23:12:38-08:00 Connecting to gateway.push.apple.com:2195
+2012-11-07T23:12:38-08:00 Failed to connect: 0 
+2012-11-07T23:23:22-08:00 Push script started (production mode)
+2012-11-07T23:23:22-08:00 Connecting to gateway.push.apple.com:2195
+2012-11-07T23:23:25-08:00 Connection OK
+2012-11-07T23:23:25-08:00 Sending message 1 to 'FE66489F304DC75B8D6E8200DFF8A456E8DAEACEC428B427E9518741C92C6661', payload: '{"aps":{"alert":"HelloWorld","sound":"default"}}'
+2012-11-07T23:23:25-08:00 Message successfully delivered
+2012-11-07T23:25:52-08:00 Push script started (production mode)
+2012-11-07T23:25:52-08:00 Connecting to gateway.push.apple.com:2195
+2012-11-07T23:25:53-08:00 Connection OK
+2012-11-07T23:26:13-08:00 Push script started (production mode)
+2012-11-07T23:26:13-08:00 Connecting to gateway.push.apple.com:2195
+2012-11-07T23:26:13-08:00 Connection OK
+2012-11-08T11:41:06-08:00 Push script started (production mode)
+2012-11-08T11:41:06-08:00 Connecting to gateway.push.apple.com:2195
+2012-11-08T11:41:07-08:00 Connection OK
+2012-11-08T12:04:04-08:00 Message 2 has invalid payload
+2012-11-08T12:04:39-08:00 Push script started (production mode)
+2012-11-08T12:04:39-08:00 Connecting to gateway.push.apple.com:2195
+2012-11-08T12:04:40-08:00 Connection OK
+2012-11-08T12:21:51-08:00 Push script started (production mode)
+2012-11-08T12:21:51-08:00 Connecting to gateway.push.apple.com:2195
+2012-11-08T12:21:52-08:00 Connection OK
+2012-11-08T12:21:52-08:00 Sending message 5 to '6758f1032b3a1ba5df98d292accc5a46d284fc575661e36c4de7c5843a4ad5a9', payload: '{"aps":{"alert":"testtest","sound":"default"}}'
+2012-11-08T12:21:52-08:00 Message successfully delivered
+2012-11-08T12:23:27-08:00 Sending message 6 to '6758f1032b3a1ba5df98d292accc5a46d284fc575661e36c4de7c5843a4ad5a9', payload: '{"aps":{"alert":"testtest","sound":"default"}}'
+2012-11-08T12:23:27-08:00 Message successfully delivered
+2012-11-08T12:23:42-08:00 Sending message 7 to '6758f1032b3a1ba5df98d292accc5a46d284fc575661e36c4de7c5843a4ad5a9', payload: '{"aps":{"alert":"testtest","sound":"default"}}'
+2012-11-08T12:23:42-08:00 Message successfully delivered
+2012-11-08T12:23:47-08:00 Sending message 8 to '6758f1032b3a1ba5df98d292accc5a46d284fc575661e36c4de7c5843a4ad5a9', payload: '{"aps":{"alert":"testtest","sound":"default"}}'
+2012-11-08T12:23:47-08:00 Message successfully delivered
+2012-11-08T12:27:32-08:00 Sending message 9 to '6758f1032b3a1ba5df98d292accc5a46d284fc575661e36c4de7c5843a4ad5a9', payload: '{"aps":{"alert":"YoKevin","sound":"default"}}'
+2012-11-08T12:27:32-08:00 Message successfully delivered
+2012-11-08T12:38:33-08:00 Sending message 10 to '6758f1032b3a1ba5df98d292accc5a46d284fc575661e36c4de7c5843a4ad5a9', payload: '{"aps":{"alert":"This is a test with my own APNS server","sound":"default"}}'
+2012-11-08T12:38:33-08:00 Message successfully delivered
+2012-11-08T12:39:13-08:00 Sending message 11 to '6758f1032b3a1ba5df98d292accc5a46d284fc575661e36c4de7c5843a4ad5a9', payload: '{"aps":{"alert":"ThisisatestwithmyownAPNSserver","sound":"default"}}'
+2012-11-08T12:39:13-08:00 Message successfully delivered
+2012-11-08T14:27:10-08:00 Push script started (production mode)
+2012-11-08T14:27:10-08:00 Connecting to gateway.push.apple.com:2195
+2012-11-08T14:27:10-08:00 Connection OK
+2012-11-08T14:27:10-08:00 Sending message 12 to '6758f1032b3a1ba5df98d292accc5a46d284fc575661e36c4de7c5843a4ad5a9', payload: '{"aps":{"alert":"ThisisatestwithmyownAPNSserver","sound":"default"}}'
+2012-11-08T14:27:10-08:00 Message successfully delivered
+2012-11-08T16:29:09-08:00 Push script started (production mode)
+2012-11-08T16:29:10-08:00 Connecting to gateway.push.apple.com:2195
+2012-11-08T16:29:11-08:00 Connection OK
+2012-11-08T16:29:11-08:00 Sending message 13 to '6758f1032b3a1ba5df98d292accc5a46d284fc575661e36c4de7c5843a4ad5a9', payload: '{"aps":{"alert":"Hello, world!","sound":"default"}}'
+2012-11-08T16:29:11-08:00 Message successfully delivered
+2012-11-08T16:30:02-08:00 Sending message 14 to '6758f1032b3a1ba5df98d292accc5a46d284fc575661e36c4de7c5843a4ad5a9', payload: '{"aps":{"alert":"Hello, world!","sound":"default"}}'
+2012-11-08T16:30:02-08:00 Message successfully delivered
+2012-11-08T16:31:19-08:00 Sending message 15 to '6758f1032b3a1ba5df98d292accc5a46d284fc575661e36c4de7c5843a4ad5a9', payload: '{"aps":{"alert":"Alex","sound":"default"}}'
+2012-11-08T16:31:19-08:00 Message successfully delivered
+2012-11-08T16:31:29-08:00 Sending message 16 to '6758f1032b3a1ba5df98d292accc5a46d284fc575661e36c4de7c5843a4ad5a9', payload: '{"aps":{"alert":"I\\'m talking to you right now","sound":"default"}}'
+2012-11-08T16:31:29-08:00 Message successfully delivered
+2012-11-08T16:31:35-08:00 Sending message 17 to '6758f1032b3a1ba5df98d292accc5a46d284fc575661e36c4de7c5843a4ad5a9', payload: '{"aps":{"alert":"asdada","sound":"default"}}'
+2012-11-08T16:31:35-08:00 Message successfully delivered
+2012-11-08T16:31:35-08:00 Sending message 18 to '6758f1032b3a1ba5df98d292accc5a46d284fc575661e36c4de7c5843a4ad5a9', payload: '{"aps":{"alert":"asdada","sound":"default"}}'
+2012-11-08T16:31:35-08:00 Message successfully delivered
+2012-11-08T16:31:40-08:00 Sending message 19 to '6758f1032b3a1ba5df98d292accc5a46d284fc575661e36c4de7c5843a4ad5a9', payload: '{"aps":{"alert":"asdada","sound":"default"}}'
+2012-11-08T16:31:40-08:00 Message successfully delivered
+2012-11-08T16:31:40-08:00 Sending message 20 to '6758f1032b3a1ba5df98d292accc5a46d284fc575661e36c4de7c5843a4ad5a9', payload: '{"aps":{"alert":"asdada","sound":"default"}}'
+2012-11-08T16:31:40-08:00 Message successfully delivered
+2012-11-08T16:31:46-08:00 Sending message 21 to '6758f1032b3a1ba5df98d292accc5a46d284fc575661e36c4de7c5843a4ad5a9', payload: '{"aps":{"alert":"asdada","sound":"default"}}'
+2012-11-08T16:31:46-08:00 Message successfully delivered
+2012-11-08T16:31:46-08:00 Sending message 22 to '6758f1032b3a1ba5df98d292accc5a46d284fc575661e36c4de7c5843a4ad5a9', payload: '{"aps":{"alert":"asdada","sound":"default"}}'
+2012-11-08T16:31:46-08:00 Message successfully delivered
+2012-11-08T16:31:51-08:00 Sending message 23 to '6758f1032b3a1ba5df98d292accc5a46d284fc575661e36c4de7c5843a4ad5a9', payload: '{"aps":{"alert":"asdada","sound":"default"}}'
+2012-11-08T16:31:51-08:00 Message successfully delivered
+2012-11-08T16:31:56-08:00 Sending message 24 to '6758f1032b3a1ba5df98d292accc5a46d284fc575661e36c4de7c5843a4ad5a9', payload: '{"aps":{"alert":"asdada","sound":"default"}}'
+2012-11-08T16:31:56-08:00 Message successfully delivered
+2012-11-08T16:31:56-08:00 Sending message 25 to '6758f1032b3a1ba5df98d292accc5a46d284fc575661e36c4de7c5843a4ad5a9', payload: '{"aps":{"alert":"asdada","sound":"default"}}'
+2012-11-08T16:31:56-08:00 Message successfully delivered
+2012-11-08T16:33:13-08:00 Sending message 26 to '6758f1032b3a1ba5df98d292accc5a46d284fc575661e36c4de7c5843a4ad5a9', payload: '{"aps":{"alert":"test","sound":"default"}}'
+2012-11-08T16:33:13-08:00 Message successfully delivered
+2012-11-08T16:46:44-08:00 Sending message 27 to '6758f1032b3a1ba5df98d292accc5a46d284fc575661e36c4de7c5843a4ad5a9', payload: '{"aps":{"alert":"Test","sound":"default"}}'
+2012-11-08T16:46:44-08:00 Message successfully delivered
+2012-11-08T16:48:21-08:00 Sending message 28 to '6758f1032b3a1ba5df98d292accc5a46d284fc575661e36c4de7c5843a4ad5a9', payload: '{"aps":{"alert":"asd\r\na\r\nsd\r\nad\r\na","sound":"default"}}'
+2012-11-08T16:48:21-08:00 Message successfully delivered
+2012-11-08T16:48:41-08:00 Sending message 29 to '6758f1032b3a1ba5df98d292accc5a46d284fc575661e36c4de7c5843a4ad5a9', payload: '{"aps":{"alert":"ad","sound":"default"}}'
+2012-11-08T16:48:41-08:00 Message successfully delivered
